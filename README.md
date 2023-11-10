@@ -11,3 +11,4 @@ Coursera - Wireshark for Beginners_TCP IP Protocol Fundamentals
 Google - Cybersecurity
 Google - IT Support
 ISC2 - Certified in Cybersecurity
+LinkedIn - Implementing the NIST Privacy Framework
