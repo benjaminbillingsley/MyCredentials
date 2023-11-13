@@ -12,3 +12,4 @@ Google - Cybersecurity
 Google - IT Support
 ISC2 - Certified in Cybersecurity
 LinkedIn - Implementing the NIST Privacy Framework
+LinkedIn - ISO 27001-2022 Compliant Cybersecurity
