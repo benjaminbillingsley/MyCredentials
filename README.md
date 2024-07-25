@@ -15,3 +15,4 @@ LinkedIn - Implementing the NIST Privacy Framework
 LinkedIn - ISO 27001-2022 Compliant Cybersecurity
 Cybrary - ITIL 4 Foundation
 Cybrary - Security+ SY0-601
+Udemy - CompTIA A+ Core 1_220-1101
